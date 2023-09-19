@@ -1,0 +1,13 @@
+body {
+    background-color: #808080;
+}
+h1 {
+    color: white;
+    margin-left: 20px;
+}
+div {
+    width: 160px;
+    height: 160px;
+    background: #fea500;
+    margin: 20px;
+}
